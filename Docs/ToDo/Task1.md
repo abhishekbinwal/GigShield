@@ -6,6 +6,12 @@ Timeline: March 7 – March 18
 
 Goal: Understand delivery partners, identify income disruption events, and design the foundation of a weekly parametric insurance model.
 
+Note: Please put * in the Square Brackets -> For reviewing
+Put X once Task is finished.
+eg : [*] -> Review Required
+     [X]-> Done & Dusted
+
+
 ---
 
 # 1. Persona Research
