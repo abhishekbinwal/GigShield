@@ -11,7 +11,7 @@ Goal: Understand delivery partners, identify income disruption events, and desig
 # 1. Persona Research
 
 ## Select Delivery Partner Category
-- [ ] Food Delivery (Zomato / Swiggy)
+- [X] Food Delivery (Zomato / Swiggy)
 - [ ] E-commerce Delivery (Amazon / Flipkart)
 - [ ] Grocery / Q-Commerce (Blinkit / Zepto)
 
@@ -32,7 +32,7 @@ Goal: Understand delivery partners, identify income disruption events, and desig
 
 ---
 
-# 2. Delivery Partner Workflow Study
+# 2. Delivery Partner Workflow Study --Aditya
 
 Understand how delivery partners work on a daily basis.
 
@@ -56,7 +56,7 @@ Receives payment + incentive
 
 ---
 
-# 3. Income Disruption Research
+# 3. Income Disruption Research --Shlok Gupta
 
 Identify events that stop delivery partners from working.
 
@@ -87,7 +87,7 @@ Identify events that stop delivery partners from working.
 
 ---
 
-# 4. Parametric Insurance Research
+# 4. Parametric Insurance Research --Abhishek Binwal
 
 Understand how parametric insurance works.
 
@@ -97,10 +97,11 @@ Understand how parametric insurance works.
 - [ ] Examples of weather-based insurance
 - [ ] Examples of climate risk insurance
 - [ ] Examples of micro-insurance for workers
+- [ ] Frequency of disruptions
 
 ---
 
-# 5. Parametric Trigger Research
+# 5. Parametric Trigger Research --Abhishek Binwal
 
 Identify measurable triggers for automatic payouts.
 
@@ -123,7 +124,7 @@ Identify measurable triggers for automatic payouts.
 
 ---
 
-# 6. Data Source Research
+# 6. Data Source Research --Aaryan 
 
 Find APIs and data sources needed to detect disruptions.
 
@@ -146,7 +147,7 @@ Find APIs and data sources needed to detect disruptions.
 
 ---
 
-# 7. Fraud Risk Research
+# 7. Fraud Risk Research. --Abhishek 
 
 Understand possible fraud scenarios.
 
