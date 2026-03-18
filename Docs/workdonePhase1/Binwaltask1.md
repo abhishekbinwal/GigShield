@@ -111,5 +111,7 @@ Parametric insurance represents a scalable and efficient approach to income prot
 References for Research
 
 Swiss Re – Parametric Insurance Guide
+
 Swiss Re – Parametric Solutions and Knowledge Hub
+
 PwC – Basis Risk in Parametric Insurance
