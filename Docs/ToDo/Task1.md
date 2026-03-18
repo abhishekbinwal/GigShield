@@ -102,13 +102,13 @@ Identify events that stop delivery partners from working.
 
 Understand how parametric insurance works.
 
-- [DONE] Definition of parametric insurance
-- [DONE] Difference between traditional and parametric insurance
-- [DONE] Trigger-based payout system
-- [DONE] Examples of weather-based insurance
-- [DONE] Examples of climate risk insurance
-- [DONE] Examples of micro-insurance for workers
-- [DONE] Frequency of disruptions
+- [x] Definition of parametric insurance
+- [x] Difference between traditional and parametric insurance
+- [x] Trigger-based payout system
+- [x] Examples of weather-based insurance
+- [x] Examples of climate risk insurance
+- [x] Examples of micro-insurance for workers
+- [x] Frequency of disruptions
 
 ---
 
@@ -118,24 +118,24 @@ Identify measurable triggers for automatic payouts.
 
 ## Weather Triggers
 
-- [Done] Rainfall threshold
-- [Done] Temperature threshold
-- [Done] Storm alerts
-- [Done] Flood alerts
+- [x] Rainfall threshold
+- [x] Temperature threshold
+- [x] Storm alerts
+- [x] Flood alerts
 
 ## Pollution Triggers
 
-- [] AQI threshold levels
+- [x] AQI threshold levels
 
 ## Platform Triggers
 
-- [Done] App outage duration
-- [Done] Order system downtime
+- [x] App outage duration
+- [x] Order system downtime
 
 ## Government Triggers
 
-- [Done] Curfew announcements
-- [Done] Public mobility restrictions
+- [x] Curfew announcements
+- [x] Public mobility restrictions
 
 ---
 
