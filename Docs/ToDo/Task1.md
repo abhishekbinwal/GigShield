@@ -1,27 +1,27 @@
-
-
 # Phase 1 – Research Tasks
+
 AI Powered Parametric Insurance for Delivery Partners
 Timeline: March 7 – March 18
 
 Goal: Understand delivery partners, identify income disruption events, and design the foundation of a weekly parametric insurance model.
 
-Note: Please put * in the Square Brackets -> For reviewing
+Note: Please put _ in the Square Brackets -> For reviewing
 Put X once Task is finished.
-eg : [*] -> Review Required
-     [X]-> Done & Dusted
-
+eg : [_] -> Review Required
+[X]-> Done & Dusted
 
 ---
 
 # 1. Persona Research
 
 ## Select Delivery Partner Category
-- [X] Food Delivery (Zomato / Swiggy)
+
+- [x] Food Delivery (Zomato / Swiggy)
 - [ ] E-commerce Delivery (Amazon / Flipkart)
 - [ ] Grocery / Q-Commerce (Blinkit / Zepto)
 
 ## Rider Profile Research
+
 - [ ] Average age of delivery partners
 - [ ] Average daily working hours
 - [ ] Average daily income
@@ -31,6 +31,7 @@ eg : [*] -> Review Required
 - [ ] Incentive structure of platforms
 
 ## Cost & Expenses
+
 - [ ] Fuel expenses
 - [ ] Vehicle maintenance cost
 - [ ] Mobile data cost
@@ -67,6 +68,7 @@ Receives payment + incentive
 Identify events that stop delivery partners from working.
 
 ## Environmental Disruptions
+
 - [ ] Heavy rainfall
 - [ ] Flooding
 - [ ] Heatwaves
@@ -74,6 +76,7 @@ Identify events that stop delivery partners from working.
 - [ ] Storms
 
 ## Social Disruptions
+
 - [ ] Curfews
 - [ ] Government mobility restrictions
 - [ ] Strikes or protests
@@ -81,12 +84,14 @@ Identify events that stop delivery partners from working.
 - [ ] Emergency city shutdowns
 
 ## Platform Disruptions
+
 - [ ] Delivery app server crash
 - [ ] Payment gateway failure
 - [ ] Order dispatch system outage
 - [ ] Technical maintenance downtime
 
 ## Impact Analysis
+
 - [ ] Estimate hours lost due to disruptions
 - [ ] Estimate daily income loss
 - [ ] Identify most common disruption events
@@ -97,13 +102,13 @@ Identify events that stop delivery partners from working.
 
 Understand how parametric insurance works.
 
-- [ ] Definition of parametric insurance
-- [ ] Difference between traditional and parametric insurance
-- [ ] Trigger-based payout system
-- [ ] Examples of weather-based insurance
-- [ ] Examples of climate risk insurance
-- [ ] Examples of micro-insurance for workers
-- [ ] Frequency of disruptions
+- [DONE] Definition of parametric insurance
+- [DONE] Difference between traditional and parametric insurance
+- [DONE] Trigger-based payout system
+- [DONE] Examples of weather-based insurance
+- [DONE] Examples of climate risk insurance
+- [DONE] Examples of micro-insurance for workers
+- [DONE] Frequency of disruptions
 
 ---
 
@@ -112,58 +117,68 @@ Understand how parametric insurance works.
 Identify measurable triggers for automatic payouts.
 
 ## Weather Triggers
-- [ ] Rainfall threshold
-- [ ] Temperature threshold
-- [ ] Storm alerts
-- [ ] Flood alerts
+
+- [Done] Rainfall threshold
+- [Done] Temperature threshold
+- [Done] Storm alerts
+- [Done] Flood alerts
 
 ## Pollution Triggers
-- [ ] AQI threshold levels
+
+- [] AQI threshold levels
 
 ## Platform Triggers
-- [ ] App outage duration
-- [ ] Order system downtime
+
+- [Done] App outage duration
+- [Done] Order system downtime
 
 ## Government Triggers
-- [ ] Curfew announcements
-- [ ] Public mobility restrictions
+
+- [Done] Curfew announcements
+- [Done] Public mobility restrictions
 
 ---
 
-# 6. Data Source Research --Aaryan 
+# 6. Data Source Research --Aaryan
 
 Find APIs and data sources needed to detect disruptions.
 
 ## Weather Data APIs
+
 - [ ] OpenWeather API
 - [ ] WeatherAPI
 - [ ] Government meteorological data
 
 ## Pollution Data APIs
+
 - [ ] AQI monitoring APIs
 - [ ] Government pollution dashboards
 
 ## Traffic Data
+
 - [ ] Google Maps Traffic API
 - [ ] MapMyIndia traffic data
 
 ## Platform Activity Data
+
 - [ ] Simulated order activity
 - [ ] Delivery platform outage monitoring
 
 ---
 
-# 7. Fraud Risk Research. --Abhishek 
+# 7. Fraud Risk Research. --Abhishek
 
 Understand possible fraud scenarios.
 
 ## Possible Fraud Cases
+
 - [ ] Location spoofing
 - [ ] Fake disruption claims
 - [ ] Duplicate payout attempts
 - [ ] Inactive worker claiming payouts
 
 ## Fraud Prevention Ideas
+
 - [ ] GPS location verification
 - [ ] Worker activity validation
 - [ ] AI anomaly detection
@@ -176,17 +191,20 @@ Understand possible fraud scenarios.
 Design a weekly insurance pricing model.
 
 ## Pricing Factors
+
 - [ ] Average weekly income of riders
 - [ ] Frequency of disruptions
 - [ ] Risk level of different cities
 - [ ] Maximum payout capacity
 
 ## Plan Design
+
 - [ ] Basic weekly plan
 - [ ] Standard weekly plan
 - [ ] Premium weekly plan
 
 ## Payout Structure
+
 - [ ] Maximum payout per disruption
 - [ ] Maximum payout per week
 - [ ] Fair pricing analysis
